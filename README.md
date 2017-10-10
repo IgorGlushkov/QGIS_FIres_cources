@@ -1,4 +1,4 @@
-# QGIS_FIres_cources
+# QGIS_Fires_course
 Courses materials for Indonseia QGIS seminar
 ## Day 1
 Downloading FHS Data
