@@ -1,5 +1,5 @@
  # -*- coding: UTF-8 -*-
-__author__ = "IG,authentification block to Google FT by JOE STORY "
+__author__ = "IG"
 __copyright__ = ""
 __license__ = ""
 __modified__ = "## IG"
